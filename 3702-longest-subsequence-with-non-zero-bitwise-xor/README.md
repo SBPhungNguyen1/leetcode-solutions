@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlongest-subsequence-with-non-zero-bitwise-xor">3702. Longest Subsequence With Non-Zero Bitwise XOR</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comlongest-subsequence-with-non-zero-bitwise-xor">LeetCode</a>.</p>

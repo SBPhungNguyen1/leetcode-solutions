@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlongest-continuous-increasing-subsequence">674. Longest Continuous Increasing Subsequence</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comlongest-continuous-increasing-subsequence">LeetCode</a>.</p>

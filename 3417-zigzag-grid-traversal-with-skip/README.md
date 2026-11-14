@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comzigzag-grid-traversal-with-skip">3417. Zigzag Grid Traversal With Skip</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comzigzag-grid-traversal-with-skip">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-the-highest-altitude">1732. Find the Highest Altitude</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-the-highest-altitude">LeetCode</a>.</p>

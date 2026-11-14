@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commajority-frequency-characters">3692. Majority Frequency Characters</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commajority-frequency-characters">LeetCode</a>.</p>

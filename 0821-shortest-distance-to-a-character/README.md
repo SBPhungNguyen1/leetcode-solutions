@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comshortest-distance-to-a-character">821. Shortest Distance to a Character</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comshortest-distance-to-a-character">LeetCode</a>.</p>

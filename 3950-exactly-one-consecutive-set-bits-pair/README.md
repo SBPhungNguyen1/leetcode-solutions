@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comexactly-one-consecutive-set-bits-pair">3950. Exactly One Consecutive Set Bits Pair</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comexactly-one-consecutive-set-bits-pair">LeetCode</a>.</p>

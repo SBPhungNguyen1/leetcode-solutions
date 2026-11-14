@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comgroup-sold-products-by-the-date">1484. Group Sold Products By The Date</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comgroup-sold-products-by-the-date">LeetCode</a>.</p>

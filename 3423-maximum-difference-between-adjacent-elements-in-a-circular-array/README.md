@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-difference-between-adjacent-elements-in-a-circular-array">3423. Maximum Difference Between Adjacent Elements in a Circular Array</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-difference-between-adjacent-elements-in-a-circular-array">LeetCode</a>.</p>

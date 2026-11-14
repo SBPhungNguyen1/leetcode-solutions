@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.combinary-search">704. Binary Search</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.combinary-search">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnext-greater-element-ii">503. Next Greater Element II</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comnext-greater-element-ii">LeetCode</a>.</p>

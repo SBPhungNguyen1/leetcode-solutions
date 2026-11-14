@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comvowel-consonant-score">3813. Vowel-Consonant Score</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comvowel-consonant-score">LeetCode</a>.</p>

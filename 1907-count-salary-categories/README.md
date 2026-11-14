@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-salary-categories">1907. Count Salary Categories</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-salary-categories">LeetCode</a>.</p>

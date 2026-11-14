@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-the-number-of-good-pairs-i">3162. Find the Number of Good Pairs I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-the-number-of-good-pairs-i">LeetCode</a>.</p>

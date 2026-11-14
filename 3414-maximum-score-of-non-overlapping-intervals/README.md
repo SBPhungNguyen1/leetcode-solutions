@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-score-of-non-overlapping-intervals">3414. Maximum Score of Non-overlapping Intervals</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-score-of-non-overlapping-intervals">LeetCode</a>.</p>

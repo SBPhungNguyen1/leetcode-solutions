@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comhtml-entity-parser">1410. HTML Entity Parser</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comhtml-entity-parser">LeetCode</a>.</p>

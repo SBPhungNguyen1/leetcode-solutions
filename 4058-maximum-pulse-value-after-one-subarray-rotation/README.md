@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-pulse-value-after-one-subarray-rotation">4058. Maximum Pulse Value After One Subarray Rotation</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-pulse-value-after-one-subarray-rotation">LeetCode</a>.</p>

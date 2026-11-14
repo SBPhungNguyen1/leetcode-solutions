@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnext-permutation">31. Next Permutation</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comnext-permutation">LeetCode</a>.</p>

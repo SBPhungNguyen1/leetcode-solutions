@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-number-of-non-overlapping-palindrome-substrings">2472. Maximum Number of Non-overlapping Palindrome Substrings</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-number-of-non-overlapping-palindrome-substrings">LeetCode</a>.</p>

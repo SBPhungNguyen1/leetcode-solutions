@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comdepartment-top-three-salaries">185. Department Top Three Salaries</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comdepartment-top-three-salaries">LeetCode</a>.</p>

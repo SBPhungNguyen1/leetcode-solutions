@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcheck-digitorial-permutation">3848. Check Digitorial Permutation</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcheck-digitorial-permutation">LeetCode</a>.</p>

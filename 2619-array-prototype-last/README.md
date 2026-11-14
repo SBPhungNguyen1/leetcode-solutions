@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comarray-prototype-last">2619. Array Prototype Last</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comarray-prototype-last">LeetCode</a>.</p>

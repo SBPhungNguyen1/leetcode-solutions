@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-cost-to-partition-a-binary-string">3864. Minimum Cost to Partition a Binary String</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-cost-to-partition-a-binary-string">LeetCode</a>.</p>

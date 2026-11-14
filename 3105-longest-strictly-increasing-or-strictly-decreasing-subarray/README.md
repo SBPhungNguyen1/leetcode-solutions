@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlongest-strictly-increasing-or-strictly-decreasing-subarray">3105. Longest Strictly Increasing or Strictly Decreasing Subarray</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comlongest-strictly-increasing-or-strictly-decreasing-subarray">LeetCode</a>.</p>

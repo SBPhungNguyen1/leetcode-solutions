@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.combitwise-or-of-even-numbers-in-an-array">3688. Bitwise OR of Even Numbers in an Array</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.combitwise-or-of-even-numbers-in-an-array">LeetCode</a>.</p>

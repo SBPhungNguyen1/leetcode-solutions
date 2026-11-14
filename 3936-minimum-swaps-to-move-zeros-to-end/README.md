@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-swaps-to-move-zeros-to-end">3936. Minimum Swaps to Move Zeros to End</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-swaps-to-move-zeros-to-end">LeetCode</a>.</p>

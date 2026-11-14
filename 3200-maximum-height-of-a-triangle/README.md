@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-height-of-a-triangle">3200. Maximum Height of a Triangle</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-height-of-a-triangle">LeetCode</a>.</p>

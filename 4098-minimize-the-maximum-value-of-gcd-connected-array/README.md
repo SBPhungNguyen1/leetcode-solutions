@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimize-the-maximum-value-of-gcd-connected-array">4098. Minimize the Maximum Value of GCD-Connected Array</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimize-the-maximum-value-of-gcd-connected-array">LeetCode</a>.</p>

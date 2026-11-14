@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsmallest-divisible-digit-product-ii">3348. Smallest Divisible Digit Product II</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comsmallest-divisible-digit-product-ii">LeetCode</a>.</p>

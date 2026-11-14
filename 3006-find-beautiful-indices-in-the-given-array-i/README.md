@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-beautiful-indices-in-the-given-array-i">3006. Find Beautiful Indices in the Given Array I</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-beautiful-indices-in-the-given-array-i">LeetCode</a>.</p>

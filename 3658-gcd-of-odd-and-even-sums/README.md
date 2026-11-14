@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comgcd-of-odd-and-even-sums">3658. GCD of Odd and Even Sums</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comgcd-of-odd-and-even-sums">LeetCode</a>.</p>

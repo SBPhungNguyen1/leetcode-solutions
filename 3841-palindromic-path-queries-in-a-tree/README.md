@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.compalindromic-path-queries-in-a-tree">3841. Palindromic Path Queries in a Tree</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.compalindromic-path-queries-in-a-tree">LeetCode</a>.</p>

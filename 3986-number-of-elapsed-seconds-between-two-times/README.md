@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnumber-of-elapsed-seconds-between-two-times">3986. Number of Elapsed Seconds Between Two Times</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comnumber-of-elapsed-seconds-between-two-times">LeetCode</a>.</p>

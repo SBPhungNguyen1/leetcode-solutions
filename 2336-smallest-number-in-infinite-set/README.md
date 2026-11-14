@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsmallest-number-in-infinite-set">2336. Smallest Number in Infinite Set</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comsmallest-number-in-infinite-set">LeetCode</a>.</p>

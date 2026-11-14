@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-moves-to-clean-the-classroom">3568. Minimum Moves to Clean the Classroom</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-moves-to-clean-the-classroom">LeetCode</a>.</p>

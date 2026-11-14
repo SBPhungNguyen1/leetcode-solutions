@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-the-largest-area-of-square-inside-two-rectangles">3047. Find the Largest Area of Square Inside Two Rectangles</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-the-largest-area-of-square-inside-two-rectangles">LeetCode</a>.</p>

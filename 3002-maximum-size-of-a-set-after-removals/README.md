@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-size-of-a-set-after-removals">3002. Maximum Size of a Set After Removals</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-size-of-a-set-after-removals">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-area-of-longest-diagonal-rectangle">3000. Maximum Area of Longest Diagonal Rectangle</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-area-of-longest-diagonal-rectangle">LeetCode</a>.</p>

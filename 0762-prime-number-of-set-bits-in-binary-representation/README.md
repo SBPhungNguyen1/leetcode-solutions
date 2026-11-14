@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comprime-number-of-set-bits-in-binary-representation">762. Prime Number of Set Bits in Binary Representation</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comprime-number-of-set-bits-in-binary-representation">LeetCode</a>.</p>

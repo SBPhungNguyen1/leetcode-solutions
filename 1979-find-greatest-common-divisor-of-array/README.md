@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-greatest-common-divisor-of-array">1979. Find Greatest Common Divisor of Array</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-greatest-common-divisor-of-array">LeetCode</a>.</p>

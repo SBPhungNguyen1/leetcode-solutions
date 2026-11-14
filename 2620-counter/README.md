@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcounter">2620. Counter</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcounter">LeetCode</a>.</p>

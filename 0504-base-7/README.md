@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.combase-7">504. Base 7</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.combase-7">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnumber-of-intersecting-interval-pairs-i">4056. Number of Intersecting Interval Pairs I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comnumber-of-intersecting-interval-pairs-i">LeetCode</a>.</p>

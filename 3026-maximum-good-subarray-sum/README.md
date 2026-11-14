@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-good-subarray-sum">3026. Maximum Good Subarray Sum</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-good-subarray-sum">LeetCode</a>.</p>

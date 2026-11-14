@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-binary-substrings">696. Count Binary Substrings</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-binary-substrings">LeetCode</a>.</p>

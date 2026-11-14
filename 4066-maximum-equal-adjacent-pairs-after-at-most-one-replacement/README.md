@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-equal-adjacent-pairs-after-at-most-one-replacement">4066. Maximum Equal Adjacent Pairs After at Most One Replacement</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-equal-adjacent-pairs-after-at-most-one-replacement">LeetCode</a>.</p>

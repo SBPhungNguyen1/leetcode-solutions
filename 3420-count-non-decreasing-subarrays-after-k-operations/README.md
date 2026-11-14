@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-non-decreasing-subarrays-after-k-operations">3420. Count Non-Decreasing Subarrays After K Operations</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-non-decreasing-subarrays-after-k-operations">LeetCode</a>.</p>

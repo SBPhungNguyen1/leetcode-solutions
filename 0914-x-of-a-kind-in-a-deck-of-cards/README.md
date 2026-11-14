@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comx-of-a-kind-in-a-deck-of-cards">914. X of a Kind in a Deck of Cards</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comx-of-a-kind-in-a-deck-of-cards">LeetCode</a>.</p>

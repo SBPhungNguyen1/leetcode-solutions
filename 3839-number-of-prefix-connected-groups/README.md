@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnumber-of-prefix-connected-groups">3839. Number of Prefix Connected Groups</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comnumber-of-prefix-connected-groups">LeetCode</a>.</p>

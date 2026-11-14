@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-minimum-operations-to-make-all-elements-divisible-by-three">3190. Find Minimum Operations to Make All Elements Divisible by Three</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-minimum-operations-to-make-all-elements-divisible-by-three">LeetCode</a>.</p>

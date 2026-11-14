@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnumber-of-unique-subjects-taught-by-each-teacher">2356. Number of Unique Subjects Taught by Each Teacher</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comnumber-of-unique-subjects-taught-by-each-teacher">LeetCode</a>.</p>

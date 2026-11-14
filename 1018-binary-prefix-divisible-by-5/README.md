@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.combinary-prefix-divisible-by-5">1018. Binary Prefix Divisible By 5</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.combinary-prefix-divisible-by-5">LeetCode</a>.</p>

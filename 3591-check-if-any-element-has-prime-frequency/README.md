@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcheck-if-any-element-has-prime-frequency">3591. Check if Any Element Has Prime Frequency</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcheck-if-any-element-has-prime-frequency">LeetCode</a>.</p>

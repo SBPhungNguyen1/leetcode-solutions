@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsmallest-palindromic-rearrangement-ii">3518. Smallest Palindromic Rearrangement II</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comsmallest-palindromic-rearrangement-ii">LeetCode</a>.</p>

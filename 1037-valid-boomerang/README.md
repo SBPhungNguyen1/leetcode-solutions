@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comvalid-boomerang">1037. Valid Boomerang</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comvalid-boomerang">LeetCode</a>.</p>

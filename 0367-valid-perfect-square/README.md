@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comvalid-perfect-square">367. Valid Perfect Square</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comvalid-perfect-square">LeetCode</a>.</p>

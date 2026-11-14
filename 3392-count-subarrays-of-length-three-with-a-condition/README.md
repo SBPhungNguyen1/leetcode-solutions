@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-subarrays-of-length-three-with-a-condition">3392. Count Subarrays of Length Three With a Condition</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-subarrays-of-length-three-with-a-condition">LeetCode</a>.</p>

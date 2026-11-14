@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnot-boring-movies">620. Not Boring Movies</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comnot-boring-movies">LeetCode</a>.</p>

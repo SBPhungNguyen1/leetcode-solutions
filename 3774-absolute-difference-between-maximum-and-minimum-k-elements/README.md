@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comabsolute-difference-between-maximum-and-minimum-k-elements">3774. Absolute Difference Between Maximum and Minimum K Elements</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comabsolute-difference-between-maximum-and-minimum-k-elements">LeetCode</a>.</p>

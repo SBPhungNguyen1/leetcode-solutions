@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-number-of-operations-to-make-elements-in-array-distinct">3396. Minimum Number of Operations to Make Elements in Array Distinct</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-number-of-operations-to-make-elements-in-array-distinct">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comugly-number">263. Ugly Number</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comugly-number">LeetCode</a>.</p>

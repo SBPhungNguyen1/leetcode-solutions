@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcompact-object">2705. Compact Object</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcompact-object">LeetCode</a>.</p>

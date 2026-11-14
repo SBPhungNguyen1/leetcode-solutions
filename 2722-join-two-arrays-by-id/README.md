@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comjoin-two-arrays-by-id">2722. Join Two Arrays by ID</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comjoin-two-arrays-by-id">LeetCode</a>.</p>

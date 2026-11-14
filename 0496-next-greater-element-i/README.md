@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnext-greater-element-i">496. Next Greater Element I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comnext-greater-element-i">LeetCode</a>.</p>

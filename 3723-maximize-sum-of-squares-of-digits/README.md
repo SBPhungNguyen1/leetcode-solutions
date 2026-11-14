@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximize-sum-of-squares-of-digits">3723. Maximize Sum of Squares of Digits</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.commaximize-sum-of-squares-of-digits">LeetCode</a>.</p>

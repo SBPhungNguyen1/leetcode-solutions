@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximize-sum-of-at-most-k-distinct-elements">3684. Maximize Sum of At Most K Distinct Elements</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commaximize-sum-of-at-most-k-distinct-elements">LeetCode</a>.</p>

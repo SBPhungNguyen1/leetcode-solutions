@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comapply-operations-on-array-to-maximize-sum-of-squares">2897. Apply Operations on Array to Maximize Sum of Squares</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comapply-operations-on-array-to-maximize-sum-of-squares">LeetCode</a>.</p>

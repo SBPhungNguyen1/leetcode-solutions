@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comalternating-groups-i">3206. Alternating Groups I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comalternating-groups-i">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcinema-seat-allocation">1386. Cinema Seat Allocation</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcinema-seat-allocation">LeetCode</a>.</p>

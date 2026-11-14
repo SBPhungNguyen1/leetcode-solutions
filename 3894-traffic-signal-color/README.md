@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comtraffic-signal-color">3894. Traffic Signal Color</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comtraffic-signal-color">LeetCode</a>.</p>

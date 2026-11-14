@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlongest-subarray-of-1s-after-deleting-one-element">1493. Longest Subarray of 1's After Deleting One Element</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comlongest-subarray-of-1s-after-deleting-one-element">LeetCode</a>.</p>

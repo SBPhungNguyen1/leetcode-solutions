@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-product-of-two-digits">3536. Maximum Product of Two Digits</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-product-of-two-digits">LeetCode</a>.</p>

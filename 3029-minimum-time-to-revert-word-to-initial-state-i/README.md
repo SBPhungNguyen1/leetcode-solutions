@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-time-to-revert-word-to-initial-state-i">3029. Minimum Time to Revert Word to Initial State I</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-time-to-revert-word-to-initial-state-i">LeetCode</a>.</p>

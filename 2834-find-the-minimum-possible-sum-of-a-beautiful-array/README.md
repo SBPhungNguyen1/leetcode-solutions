@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-the-minimum-possible-sum-of-a-beautiful-array">2834. Find the Minimum Possible Sum of a Beautiful Array</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-the-minimum-possible-sum-of-a-beautiful-array">LeetCode</a>.</p>

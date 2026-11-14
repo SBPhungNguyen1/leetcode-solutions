@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comclosest-equal-element-queries">3488. Closest Equal Element Queries</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comclosest-equal-element-queries">LeetCode</a>.</p>

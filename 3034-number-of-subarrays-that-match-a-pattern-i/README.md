@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnumber-of-subarrays-that-match-a-pattern-i">3034. Number of Subarrays That Match a Pattern I</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comnumber-of-subarrays-that-match-a-pattern-i">LeetCode</a>.</p>

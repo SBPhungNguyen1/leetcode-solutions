@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.combuddy-strings">859. Buddy Strings</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.combuddy-strings">LeetCode</a>.</p>

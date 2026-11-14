@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsmallest-stable-index-i">3903. Smallest Stable Index I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comsmallest-stable-index-i">LeetCode</a>.</p>

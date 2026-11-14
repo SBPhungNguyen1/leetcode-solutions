@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfix-names-in-a-table">1667. Fix Names in a Table</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfix-names-in-a-table">LeetCode</a>.</p>

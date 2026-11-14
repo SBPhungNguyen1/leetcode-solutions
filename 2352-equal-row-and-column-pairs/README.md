@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comequal-row-and-column-pairs">2352. Equal Row and Column Pairs</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comequal-row-and-column-pairs">LeetCode</a>.</p>

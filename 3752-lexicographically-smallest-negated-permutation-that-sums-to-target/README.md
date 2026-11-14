@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlexicographically-smallest-negated-permutation-that-sums-to-target">3752. Lexicographically Smallest Negated Permutation that Sums to Target</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comlexicographically-smallest-negated-permutation-that-sums-to-target">LeetCode</a>.</p>

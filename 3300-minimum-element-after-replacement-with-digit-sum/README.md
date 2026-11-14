@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-element-after-replacement-with-digit-sum">3300. Minimum Element After Replacement With Digit Sum</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-element-after-replacement-with-digit-sum">LeetCode</a>.</p>

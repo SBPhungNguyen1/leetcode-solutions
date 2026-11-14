@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsearch-in-a-binary-search-tree">700. Search in a Binary Search Tree</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comsearch-in-a-binary-search-tree">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-valid-pair-of-adjacent-digits-in-string">3438. Find Valid Pair of Adjacent Digits in String</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-valid-pair-of-adjacent-digits-in-string">LeetCode</a>.</p>

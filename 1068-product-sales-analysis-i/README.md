@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comproduct-sales-analysis-i">1068. Product Sales Analysis I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comproduct-sales-analysis-i">LeetCode</a>.</p>

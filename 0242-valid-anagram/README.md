@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comvalid-anagram">242. Valid Anagram</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comvalid-anagram">LeetCode</a>.</p>

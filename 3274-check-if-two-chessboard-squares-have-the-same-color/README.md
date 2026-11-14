@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcheck-if-two-chessboard-squares-have-the-same-color">3274. Check if Two Chessboard Squares Have the Same Color</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcheck-if-two-chessboard-squares-have-the-same-color">LeetCode</a>.</p>

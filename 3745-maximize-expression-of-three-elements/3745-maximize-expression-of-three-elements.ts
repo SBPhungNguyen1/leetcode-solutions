@@ -1,0 +1,4 @@
+function maximizeExpressionOfThree(nums: number[]): number {
+    nums.sort((a, b) => a - b) // min -> max
+    return nums[nums.length - 1] + nums[nums.length - 2] - nums[0];
+};

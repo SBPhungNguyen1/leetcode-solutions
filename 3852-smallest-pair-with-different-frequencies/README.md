@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsmallest-pair-with-different-frequencies">3852. Smallest Pair With Different Frequencies</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comsmallest-pair-with-different-frequencies">LeetCode</a>.</p>

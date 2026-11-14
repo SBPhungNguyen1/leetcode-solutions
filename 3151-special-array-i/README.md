@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comspecial-array-i">3151. Special Array I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comspecial-array-i">LeetCode</a>.</p>

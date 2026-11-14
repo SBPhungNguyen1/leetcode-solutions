@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-moves-to-capture-the-queen">3001. Minimum Moves to Capture The Queen</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-moves-to-capture-the-queen">LeetCode</a>.</p>

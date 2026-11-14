@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximize-expression-of-three-elements">3745. Maximize Expression of Three Elements</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commaximize-expression-of-three-elements">LeetCode</a>.</p>

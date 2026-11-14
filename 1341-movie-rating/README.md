@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commovie-rating">1341. Movie Rating</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.commovie-rating">LeetCode</a>.</p>

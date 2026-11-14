@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.compartition-array-into-three-parts-with-equal-sum">1013. Partition Array Into Three Parts With Equal Sum</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.compartition-array-into-three-parts-with-equal-sum">LeetCode</a>.</p>

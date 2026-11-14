@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comgrumpy-bookstore-owner">1052. Grumpy Bookstore Owner</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comgrumpy-bookstore-owner">LeetCode</a>.</p>

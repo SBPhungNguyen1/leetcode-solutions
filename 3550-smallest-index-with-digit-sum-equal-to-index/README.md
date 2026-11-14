@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsmallest-index-with-digit-sum-equal-to-index">3550. Smallest Index With Digit Sum Equal to Index</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comsmallest-index-with-digit-sum-equal-to-index">LeetCode</a>.</p>

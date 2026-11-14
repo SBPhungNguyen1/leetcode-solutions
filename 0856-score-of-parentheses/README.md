@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comscore-of-parentheses">856. Score of Parentheses</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comscore-of-parentheses">LeetCode</a>.</p>

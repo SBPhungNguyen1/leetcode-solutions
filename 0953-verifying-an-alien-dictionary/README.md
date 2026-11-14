@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comverifying-an-alien-dictionary">953. Verifying an Alien Dictionary</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comverifying-an-alien-dictionary">LeetCode</a>.</p>

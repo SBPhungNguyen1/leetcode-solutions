@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-nodes-equal-to-average-of-subtree">2265. Count Nodes Equal to Average of Subtree</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-nodes-equal-to-average-of-subtree">LeetCode</a>.</p>

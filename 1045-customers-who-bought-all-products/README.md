@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcustomers-who-bought-all-products">1045. Customers Who Bought All Products</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcustomers-who-bought-all-products">LeetCode</a>.</p>

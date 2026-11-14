@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfirst-unique-character-in-a-string">387. First Unique Character in a String</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfirst-unique-character-in-a-string">LeetCode</a>.</p>

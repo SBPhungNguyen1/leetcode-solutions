@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-the-longest-equal-subarray">2831. Find the Longest Equal Subarray</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-the-longest-equal-subarray">LeetCode</a>.</p>

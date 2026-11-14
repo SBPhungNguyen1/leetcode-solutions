@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-number-of-days-to-make-m-bouquets">1482. Minimum Number of Days to Make m Bouquets</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-number-of-days-to-make-m-bouquets">LeetCode</a>.</p>

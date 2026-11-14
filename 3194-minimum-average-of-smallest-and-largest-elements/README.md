@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-average-of-smallest-and-largest-elements">3194. Minimum Average of Smallest and Largest Elements</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-average-of-smallest-and-largest-elements">LeetCode</a>.</p>

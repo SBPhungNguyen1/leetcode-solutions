@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comremove-elements-by-type-and-color">4103. Remove Elements by Type and Color</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comremove-elements-by-type-and-color">LeetCode</a>.</p>

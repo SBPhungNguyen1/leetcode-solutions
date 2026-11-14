@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comremoving-minimum-and-maximum-from-array">2091. Removing Minimum and Maximum From Array</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comremoving-minimum-and-maximum-from-array">LeetCode</a>.</p>

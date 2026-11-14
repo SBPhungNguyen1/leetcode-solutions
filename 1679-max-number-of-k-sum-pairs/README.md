@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commax-number-of-k-sum-pairs">1679. Max Number of K-Sum Pairs</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.commax-number-of-k-sum-pairs">LeetCode</a>.</p>

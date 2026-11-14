@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlongest-repeating-character-replacement">424. Longest Repeating Character Replacement</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comlongest-repeating-character-replacement">LeetCode</a>.</p>

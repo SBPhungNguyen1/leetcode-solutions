@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimize-length-of-array-using-operations">3012. Minimize Length of Array Using Operations</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimize-length-of-array-using-operations">LeetCode</a>.</p>

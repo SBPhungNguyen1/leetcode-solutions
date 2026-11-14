@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-subarrays-with-majority-element-i">3737. Count Subarrays With Majority Element I</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-subarrays-with-majority-element-i">LeetCode</a>.</p>

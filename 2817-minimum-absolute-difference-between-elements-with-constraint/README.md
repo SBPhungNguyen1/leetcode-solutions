@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-absolute-difference-between-elements-with-constraint">2817. Minimum Absolute Difference Between Elements With Constraint</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-absolute-difference-between-elements-with-constraint">LeetCode</a>.</p>

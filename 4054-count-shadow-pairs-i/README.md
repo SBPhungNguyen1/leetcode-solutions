@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-shadow-pairs-i">4054. Count Shadow Pairs I</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-shadow-pairs-i">LeetCode</a>.</p>

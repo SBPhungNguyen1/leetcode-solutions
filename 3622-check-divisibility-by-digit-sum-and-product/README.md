@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcheck-divisibility-by-digit-sum-and-product">3622. Check Divisibility by Digit Sum and Product</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcheck-divisibility-by-digit-sum-and-product">LeetCode</a>.</p>

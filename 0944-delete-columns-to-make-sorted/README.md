@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comdelete-columns-to-make-sorted">944. Delete Columns to Make Sorted</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comdelete-columns-to-make-sorted">LeetCode</a>.</p>

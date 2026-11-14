@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comrange-sum-query-immutable">303. Range Sum Query - Immutable</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comrange-sum-query-immutable">LeetCode</a>.</p>

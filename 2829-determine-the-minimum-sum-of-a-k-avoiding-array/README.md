@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comdetermine-the-minimum-sum-of-a-k-avoiding-array">2829. Determine the Minimum Sum of a k-avoiding Array</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comdetermine-the-minimum-sum-of-a-k-avoiding-array">LeetCode</a>.</p>

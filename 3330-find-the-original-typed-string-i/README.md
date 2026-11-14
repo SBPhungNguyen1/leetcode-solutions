@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-the-original-typed-string-i">3330. Find the Original Typed String I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-the-original-typed-string-i">LeetCode</a>.</p>

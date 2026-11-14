@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comshortest-and-lexicographically-smallest-beautiful-string">2904. Shortest and Lexicographically Smallest Beautiful String</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comshortest-and-lexicographically-smallest-beautiful-string">LeetCode</a>.</p>

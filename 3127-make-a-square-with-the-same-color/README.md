@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commake-a-square-with-the-same-color">3127. Make a Square with the Same Color</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commake-a-square-with-the-same-color">LeetCode</a>.</p>

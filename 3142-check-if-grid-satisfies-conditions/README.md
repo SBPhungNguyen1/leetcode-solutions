@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcheck-if-grid-satisfies-conditions">3142. Check if Grid Satisfies Conditions</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcheck-if-grid-satisfies-conditions">LeetCode</a>.</p>

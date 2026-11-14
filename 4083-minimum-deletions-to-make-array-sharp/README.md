@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-deletions-to-make-array-sharp">4083. Minimum Deletions to Make Array Sharp</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-deletions-to-make-array-sharp">LeetCode</a>.</p>

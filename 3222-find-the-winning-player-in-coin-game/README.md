@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-the-winning-player-in-coin-game">3222. Find the Winning Player in Coin Game</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-the-winning-player-in-coin-game">LeetCode</a>.</p>

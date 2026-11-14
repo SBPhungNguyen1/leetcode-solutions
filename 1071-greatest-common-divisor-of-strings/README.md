@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comgreatest-common-divisor-of-strings">1071. Greatest Common Divisor of Strings</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comgreatest-common-divisor-of-strings">LeetCode</a>.</p>

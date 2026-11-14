@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsuccessful-pairs-of-spells-and-potions">2300. Successful Pairs of Spells and Potions</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comsuccessful-pairs-of-spells-and-potions">LeetCode</a>.</p>

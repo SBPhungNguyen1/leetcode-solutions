@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comrange-sum-query-2d-immutable">304. Range Sum Query 2D - Immutable</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comrange-sum-query-2d-immutable">LeetCode</a>.</p>

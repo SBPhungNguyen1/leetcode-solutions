@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com132-pattern">456. 132 Pattern</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.com132-pattern">LeetCode</a>.</p>

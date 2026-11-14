@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comstone-game-viii">1872. Stone Game VIII</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comstone-game-viii">LeetCode</a>.</p>

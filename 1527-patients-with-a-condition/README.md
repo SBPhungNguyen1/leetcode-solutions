@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.compatients-with-a-condition">1527. Patients With a Condition</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.compatients-with-a-condition">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximize-pair-strength-using-gcd">4010. Maximize Pair Strength Using GCD</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commaximize-pair-strength-using-gcd">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlast-person-to-fit-in-the-bus">1204. Last Person to Fit in the Bus</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comlast-person-to-fit-in-the-bus">LeetCode</a>.</p>

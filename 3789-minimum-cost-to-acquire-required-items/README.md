@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-cost-to-acquire-required-items">3789. Minimum Cost to Acquire Required Items</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-cost-to-acquire-required-items">LeetCode</a>.</p>

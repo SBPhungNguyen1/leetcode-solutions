@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commaximum-difference-between-even-and-odd-frequency-i">3442. Maximum Difference Between Even and Odd Frequency I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.commaximum-difference-between-even-and-odd-frequency-i">LeetCode</a>.</p>

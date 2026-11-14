@@ -1,0 +1,21 @@
+function firstStableIndex(nums: number[], k: number): number {
+  const n = nums.length;
+  if (n === 0) return -1;
+
+  const suffixMin = new Array(n);
+  suffixMin[n - 1] = nums[n - 1];
+  for (let i = n - 2; i >= 0; i--) {
+    suffixMin[i] = Math.min(nums[i], suffixMin[i + 1]);
+  }
+
+  let prefixMax = -Infinity;
+
+  for (let i = 0; i < n; i++) {
+    prefixMax = Math.max(prefixMax, nums[i]);
+    if (prefixMax - suffixMin[i] <= k) {
+      return i;
+    }
+  }
+
+  return -1;
+}

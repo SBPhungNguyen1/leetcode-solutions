@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comnumber-of-steps-to-reduce-a-number-in-binary-representation-to-one">1404. Number of Steps to Reduce a Number in Binary Representation to One</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comnumber-of-steps-to-reduce-a-number-in-binary-representation-to-one">LeetCode</a>.</p>

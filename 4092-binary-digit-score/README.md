@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.combinary-digit-score">4092. Binary Digit Score</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.combinary-digit-score">LeetCode</a>.</p>

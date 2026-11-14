@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcheck-if-digits-are-equal-in-string-after-operations-i">3461. Check If Digits Are Equal in String After Operations I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcheck-if-digits-are-equal-in-string-after-operations-i">LeetCode</a>.</p>

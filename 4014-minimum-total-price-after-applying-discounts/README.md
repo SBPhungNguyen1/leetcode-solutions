@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-total-price-after-applying-discounts">4014. Minimum Total Price After Applying Discounts</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-total-price-after-applying-discounts">LeetCode</a>.</p>

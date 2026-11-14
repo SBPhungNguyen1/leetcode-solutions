@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-the-minimum-and-maximum-number-of-nodes-between-critical-points">2058. Find the Minimum and Maximum Number of Nodes Between Critical Points</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-the-minimum-and-maximum-number-of-nodes-between-critical-points">LeetCode</a>.</p>

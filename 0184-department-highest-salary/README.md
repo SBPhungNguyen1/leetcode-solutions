@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comdepartment-highest-salary">184. Department Highest Salary</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comdepartment-highest-salary">LeetCode</a>.</p>

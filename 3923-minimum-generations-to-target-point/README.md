@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-generations-to-target-point">3923. Minimum Generations to Target Point</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-generations-to-target-point">LeetCode</a>.</p>

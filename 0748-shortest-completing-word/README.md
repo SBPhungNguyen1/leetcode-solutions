@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comshortest-completing-word">748. Shortest Completing Word</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comshortest-completing-word">LeetCode</a>.</p>

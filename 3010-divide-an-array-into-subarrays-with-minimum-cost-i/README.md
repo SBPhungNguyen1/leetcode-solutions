@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comdivide-an-array-into-subarrays-with-minimum-cost-i">3010. Divide an Array Into Subarrays With Minimum Cost I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comdivide-an-array-into-subarrays-with-minimum-cost-i">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlexicographically-smallest-palindromic-permutation-greater-than-target">3734. Lexicographically Smallest Palindromic Permutation Greater Than Target</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comlexicographically-smallest-palindromic-permutation-greater-than-target">LeetCode</a>.</p>

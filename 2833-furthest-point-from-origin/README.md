@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfurthest-point-from-origin">2833. Furthest Point From Origin</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfurthest-point-from-origin">LeetCode</a>.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comshortest-path-with-at-most-k-consecutive-identical-characters">3970. Shortest Path With At Most K Consecutive Identical Characters</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comshortest-path-with-at-most-k-consecutive-identical-characters">LeetCode</a>.</p>

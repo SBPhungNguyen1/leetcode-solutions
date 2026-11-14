@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcheck-if-strings-can-be-made-equal-with-operations-ii">2840. Check if Strings Can be Made Equal With Operations II</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comcheck-if-strings-can-be-made-equal-with-operations-ii">LeetCode</a>.</p>

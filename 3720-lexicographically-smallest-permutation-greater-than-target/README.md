@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comlexicographically-smallest-permutation-greater-than-target">3720. Lexicographically Smallest Permutation Greater Than Target</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comlexicographically-smallest-permutation-greater-than-target">LeetCode</a>.</p>

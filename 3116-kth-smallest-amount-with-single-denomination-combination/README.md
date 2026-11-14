@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comkth-smallest-amount-with-single-denomination-combination">3116. Kth Smallest Amount With Single Denomination Combination</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comkth-smallest-amount-with-single-denomination-combination">LeetCode</a>.</p>

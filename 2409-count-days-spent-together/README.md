@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-days-spent-together">2409. Count Days Spent Together</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-days-spent-together">LeetCode</a>.</p>

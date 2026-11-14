@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.compredict-the-winner">486. Predict the Winner</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.compredict-the-winner">LeetCode</a>.</p>

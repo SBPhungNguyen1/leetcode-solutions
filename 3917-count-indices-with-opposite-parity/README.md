@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comcount-indices-with-opposite-parity">3917. Count Indices With Opposite Parity</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comcount-indices-with-opposite-parity">LeetCode</a>.</p>

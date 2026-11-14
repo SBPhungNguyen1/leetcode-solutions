@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsmallest-absent-positive-greater-than-average">3678. Smallest Absent Positive Greater Than Average</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comsmallest-absent-positive-greater-than-average">LeetCode</a>.</p>

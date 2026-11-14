@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-number-of-pushes-to-type-word-i">3014. Minimum Number of Pushes to Type Word I</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-number-of-pushes-to-type-word-i">LeetCode</a>.</p>

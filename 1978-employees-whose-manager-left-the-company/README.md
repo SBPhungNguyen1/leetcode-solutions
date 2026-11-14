@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comemployees-whose-manager-left-the-company">1978. Employees Whose Manager Left the Company</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comemployees-whose-manager-left-the-company">LeetCode</a>.</p>

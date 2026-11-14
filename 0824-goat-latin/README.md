@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comgoat-latin">824. Goat Latin</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comgoat-latin">LeetCode</a>.</p>

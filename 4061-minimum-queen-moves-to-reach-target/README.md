@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-queen-moves-to-reach-target">4061. Minimum Queen Moves to Reach Target</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-queen-moves-to-reach-target">LeetCode</a>.</p>

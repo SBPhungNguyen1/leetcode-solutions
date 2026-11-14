@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comsum-of-good-numbers">3452. Sum of Good Numbers</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comsum-of-good-numbers">LeetCode</a>.</p>

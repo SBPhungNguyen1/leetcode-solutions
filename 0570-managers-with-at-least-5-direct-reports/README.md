@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.commanagers-with-at-least-5-direct-reports">570. Managers with at Least 5 Direct Reports</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.commanagers-with-at-least-5-direct-reports">LeetCode</a>.</p>

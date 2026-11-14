@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comtaking-maximum-energy-from-the-mystic-dungeon">3147. Taking Maximum Energy From the Mystic Dungeon</a></h2><h3>Medium</h3><hr><p>View full problem description on <a href="https://leetcode.comtaking-maximum-energy-from-the-mystic-dungeon">LeetCode</a>.</p>

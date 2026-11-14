@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comminimum-index-sum-of-two-lists">599. Minimum Index Sum of Two Lists</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comminimum-index-sum-of-two-lists">LeetCode</a>.</p>

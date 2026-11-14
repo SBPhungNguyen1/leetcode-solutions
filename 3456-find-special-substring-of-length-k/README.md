@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comfind-special-substring-of-length-k">3456. Find Special Substring of Length K</a></h2><h3>Easy</h3><hr><p>View full problem description on <a href="https://leetcode.comfind-special-substring-of-length-k">LeetCode</a>.</p>

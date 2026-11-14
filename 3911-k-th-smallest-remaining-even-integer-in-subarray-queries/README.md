@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.comk-th-smallest-remaining-even-integer-in-subarray-queries">3911. K-th Smallest Remaining Even Integer in Subarray Queries</a></h2><h3>Hard</h3><hr><p>View full problem description on <a href="https://leetcode.comk-th-smallest-remaining-even-integer-in-subarray-queries">LeetCode</a>.</p>
