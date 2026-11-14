@@ -1,13 +1,13 @@
-<div align="center">
-
 # LeetCode Solutions
 
-> _"Dream big - Work hard - Stay focused"_
+<div align="center">
 
-[![LeetCode](https://shields.io)](https://leetcode.com)
-[![TypeScript](https://shields.io)](https://typescriptlang.org)
-[![Java](https://shields.io)](https://java.com)
-[![PostgreSQL](https://shields.io)](https://postgresql.org)
+**"Dream big - Work hard - Stay focused"**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFB800?style=for-the-badge&logo=leetcode&logoColor=181818)](https://leetcode.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=082F49)](https://www.typescriptlang.org/)
+[![Java](https://img.shields.io/badge/Java-F97316?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-60A5FA?style=for-the-badge&logo=postgresql&logoColor=0C2340)](https://www.postgresql.org/)
 
 </div>
 
@@ -29,11 +29,13 @@ This repository serves as a personal archive of **700+ accepted solutions**, doc
 
 <div align="center">
 
-![LeetCode Stats](https://jacoblin.cool)
+<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
+
+<img src="https://leetcard.jacoblin.cool/Q4PBkUkyDd?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="100%" />
 
 </div>
 
-> _Automatically synced via [LeetHub 3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpjpenaeoodajljkflmlnkoihkmda)._
+> Automatically synced via [LeetHub 3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpjpenaeoodajljkflmlnkoihkmda).
 
 ---
 
@@ -56,16 +58,16 @@ leetcode-solutions/
 
 ## 🛠️ Tech Stack & Focus Areas
 
-| Language                     | Role & Primary Focus                                                                                                      |
-| :--------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
-| **TypeScript** _(Primary)_   | Main language for complex algorithmic challenges: Dynamic Programming, Trees, Graphs, Sliding Window, and Data Structures |
-| **Java** _(Secondary)_       | Practicing syntax fundamentals, OOP concepts, and solving straightforward algorithmic problems                            |
-| **SQL (PostgreSQL / MySQL)** | Relational data querying, Complex Joins, Window Functions, CTEs, and Query Optimization                                   |
+| Language | Role & Primary Focus |
+| :--- | :--- |
+| **TypeScript** *(Primary)* | Main language for complex algorithmic challenges: Dynamic Programming, Trees, Graphs, Sliding Window, and Data Structures |
+| **Java** *(Secondary)* | Practicing syntax fundamentals, OOP concepts, and solving straightforward algorithmic problems |
+| **SQL (PostgreSQL / MySQL)** | Relational data querying, Complex Joins, Window Functions, CTEs, and Query Optimization |
 
 ---
 
 <div align="center">
 
-_Consistency compounds. Keep building, one problem at a time._
+*Consistency compounds. Keep building, one problem at a time.*
 
 </div>
