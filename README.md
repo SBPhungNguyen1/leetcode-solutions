@@ -79,6 +79,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0896-monotonic-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
+| [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ leetcode-solutions/
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
