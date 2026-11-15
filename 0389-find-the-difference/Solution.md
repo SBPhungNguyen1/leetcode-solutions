@@ -1,47 +1,42 @@
-# [WC] - [TypeScript] | XOR Bit Manipulation | O(N) Time & O(1) Space
+# [WC] - [TypeScript] | Hash Map + Frequency Counting | O(N) Time & O(K) Space
 
 # Intuition
-- **XOR has a cancellation property:** `a ^ a = 0`, so identical values cancel each other out.
-
-- **XOR operates on binary representations of numbers**, so we can convert each character into its character code and apply XOR.
-
-- After XOR-ing all characters in both strings, only the extra character remains.
+We need to find the character that appears more times in `t` than in `s`. Using **frequency maps** allows us to count and compare the occurrences of each character.
 
 # Approach
-1. Initialize `result = 0`.
+1. Create two Maps to store the frequency of each character in `s` and `t`.
 
-2. Iterate through all characters in `s` and **XOR** their character codes into `result`.
+2. Iterate through both strings and update their character frequencies.
 
-3. Iterate through all characters in `t` and **XOR** their character codes into `result`.
+3. Iterate through the frequency map of `t`: ***If a character does not exist in `s`, or its frequency is different, return that character.***
 
-4. Convert the remaining integer back to a character using `String.fromCharCode()`.
-
-The remaining value represents the character that exists in t but not in s.
-
+4. Return an empty string if no difference is found.
 # Complexity
-- Time complexity: $$O(n)$$
+- **Time complexity:** $$O(n)$$
 `n = t.length`
 
-- Space complexity: $$O(1)$$
-<!-- Add your space complexity here, e.g. $$O(n)$$ -->
-
-![0389-v1.png](https://assets.leetcode.com/users/images/4048961e-b1fa-4e96-b704-f94adf848dfd_1794706488.898977.png)
+- **Space complexity:** $$O(k)$$
+`k` is number of distinct characters
 
 
+![0389-v2.png](https://assets.leetcode.com/users/images/c8f1c4a5-e93b-4145-a3c9-d64e11b4169a_1794707810.0286465.png)
 
 # Code
 ```typescript []
 function findTheDifference(s: string, t: string): string {
-    let result = 0;
-    
-    for (let i = 0; i < s.length; i++) {
-        result ^= s.charCodeAt(i);
+    const maps = new Map<string, number>();
+    const mapt = new Map<string, number>();
+
+    for (const char of s) 
+        maps.set(char, (maps.get(char) || 0) + 1);
+
+    for (const char of t) 
+        mapt.set(char, (mapt.get(char) || 0) + 1);
+
+    for (const [key, value] of mapt) {
+        if (!maps.has(key) || maps.get(key) !== value)
+            return key;
     }
-    
-    for (let i = 0; i < t.length; i++) {
-        result ^= t.charCodeAt(i);
-    }
-    
-    return String.fromCharCode(result);
+    return "";
 }
 ```
