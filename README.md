@@ -77,6 +77,7 @@ leetcode-solutions/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0896-monotonic-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
