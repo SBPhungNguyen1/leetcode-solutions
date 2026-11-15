@@ -1,18 +1,20 @@
 function isMonotonic(nums: number[]): boolean {
-    let flag1 = true;
-    let flag2 = true;
-    for (let i = 0; i < nums.length - 1; i++) {
-        if (nums[i] > nums[i+1]) {
-            flag1 = false;
+    let flagDesc = false;
+    let flagInc = false;
+
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i - 1] < nums[i]) {
+            flagInc = true;
             break;
         }
     }
 
-    for (let i = 0; i < nums.length - 1; i++) {
-        if (nums[i] < nums[i+1]) {
-            flag2 = false;
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i - 1] > nums[i]) {
+            flagDesc = true;
             break;
-        }
+        } 
     }
-    return flag1 || flag2;
+
+    return (flagInc && flagDesc) ? false : true;
 };
