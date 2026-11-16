@@ -77,6 +77,7 @@ leetcode-solutions/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -98,6 +99,7 @@ leetcode-solutions/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
