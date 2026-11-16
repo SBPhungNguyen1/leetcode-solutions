@@ -77,6 +77,7 @@ leetcode-solutions/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0896-monotonic-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
@@ -97,6 +98,7 @@ leetcode-solutions/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -115,6 +117,7 @@ leetcode-solutions/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Stack
@@ -144,4 +147,16 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
