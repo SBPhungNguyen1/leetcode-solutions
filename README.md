@@ -104,6 +104,7 @@ leetcode-solutions/
 | [0242-valid-anagram](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@ leetcode-solutions/
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
