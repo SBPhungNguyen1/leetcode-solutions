@@ -9,8 +9,9 @@ function isValid(s: string): boolean {
         else {
             const item = arr.pop();
             const index = right.indexOf(s[i]);
-            console.log(item)
-            if (item !== left[index])   return false;
+            
+            if (item !== left[index])   
+                return false;
         }
     }
     return arr.length === 0;
