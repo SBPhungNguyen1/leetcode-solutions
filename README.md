@@ -102,6 +102,7 @@ leetcode-solutions/
 | [0001-two-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
@@ -109,6 +110,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [1544-make-the-string-great](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -161,6 +163,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +172,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
