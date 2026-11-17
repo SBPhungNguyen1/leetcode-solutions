@@ -96,6 +96,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ leetcode-solutions/
 | [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +200,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 <!---LeetCode Topics End-->
