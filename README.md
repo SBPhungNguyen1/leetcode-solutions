@@ -84,6 +84,7 @@ leetcode-solutions/
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0896-monotonic-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -115,6 +116,7 @@ leetcode-solutions/
 | [0387-first-unique-character-in-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,4 +216,16 @@ leetcode-solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
