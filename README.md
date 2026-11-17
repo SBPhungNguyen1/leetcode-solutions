@@ -79,6 +79,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0055-jump-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
@@ -200,6 +201,7 @@ leetcode-solutions/
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ leetcode-solutions/
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 <!---LeetCode Topics End-->
