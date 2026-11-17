@@ -78,6 +78,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0055-jump-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
@@ -95,6 +96,7 @@ leetcode-solutions/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Prefix Sum
@@ -202,6 +204,7 @@ leetcode-solutions/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
