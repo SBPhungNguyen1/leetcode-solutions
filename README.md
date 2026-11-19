@@ -95,6 +95,7 @@ leetcode-solutions/
 | [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2540-minimum-common-value](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ leetcode-solutions/
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +225,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0055-jump-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
