@@ -99,6 +99,7 @@ leetcode-solutions/
 | [2073-time-needed-to-buy-tickets](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2540-minimum-common-value](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ leetcode-solutions/
 | [0055-jump-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ leetcode-solutions/
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
