@@ -95,6 +95,7 @@ leetcode-solutions/
 | [0733-flood-fill](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0896-monotonic-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -164,6 +165,7 @@ leetcode-solutions/
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Stack
@@ -249,6 +251,7 @@ leetcode-solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0844-backspace-string-compare](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Linked List
