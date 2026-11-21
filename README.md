@@ -102,6 +102,7 @@ leetcode-solutions/
 | [2540-minimum-common-value](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ leetcode-solutions/
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [2540-minimum-common-value](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@ leetcode-solutions/
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +194,7 @@ leetcode-solutions/
 | [0200-number-of-islands](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +279,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 <!---LeetCode Topics End-->
