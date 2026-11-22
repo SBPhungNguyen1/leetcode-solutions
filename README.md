@@ -92,6 +92,7 @@ leetcode-solutions/
 | [0283-move-zeroes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -183,6 +184,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0844-backspace-string-compare](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -220,6 +222,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
