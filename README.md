@@ -152,6 +152,7 @@ leetcode-solutions/
 | [0844-backspace-string-compare](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1544-make-the-string-great](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
