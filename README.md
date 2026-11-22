@@ -95,6 +95,7 @@ leetcode-solutions/
 | [0643-maximum-average-subarray-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0735-asteroid-collision](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0896-monotonic-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -182,6 +183,7 @@ leetcode-solutions/
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0735-asteroid-collision](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0844-backspace-string-compare](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1544-make-the-string-great](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
@@ -190,6 +192,7 @@ leetcode-solutions/
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
