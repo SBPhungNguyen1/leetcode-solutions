@@ -1,20 +1,22 @@
 function nextGreaterElements(nums: number[]): number[] {
     const arr = [];
     for (let i = 0; i < nums.length; i++) {
-        let cur = i + 1;
-        if (cur === nums.length)
-            cur = 0;
-        let flag = -1;
-        while (cur !== i) {
-            if (nums[cur] > nums[i]) {
-                flag = nums[cur];
+        let curr = i + 1;
+        let flag = false;
+        while (curr <= nums.length) {
+            if (curr === nums.length)
+                curr = 0;
+            if (curr === i)
+                break;
+            if (nums[curr] > nums[i]) {
+                arr.push(nums[curr]);
+                flag = true;
                 break;
             }
-            cur++;
-            if (cur === nums.length)
-                cur = 0;
+            curr++;
         }
-        arr.push(flag);
+        if (!flag)
+            arr.push(-1);
     }
     return arr;
 };
