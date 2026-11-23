@@ -85,6 +85,7 @@ leetcode-solutions/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -118,6 +119,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0198-house-robber](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
