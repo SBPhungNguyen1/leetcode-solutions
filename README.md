@@ -100,6 +100,7 @@ leetcode-solutions/
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0896-monotonic-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -111,6 +112,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -278,6 +281,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +301,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
