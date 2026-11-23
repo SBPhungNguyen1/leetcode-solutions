@@ -82,6 +82,7 @@ leetcode-solutions/
 | [0049-group-anagrams](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0137-single-number-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -171,6 +172,7 @@ leetcode-solutions/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
