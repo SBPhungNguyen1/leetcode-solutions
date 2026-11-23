@@ -1,11 +1,12 @@
 function rob(nums: number[]): number {
-    const dp = new Array(nums.length+1).fill(0);
-    console.log(dp)
-    dp[1] = nums[0];
-    for (let i = 2; i <= nums.length; i++) {
-        dp[i] = Math.max(dp[i-2] + nums[i-1], dp[i-1]);
-        console.log(i, dp[i], dp[i-2] + nums[i-1], dp[i-1])
+    const dp = [0]; // o vi tri i -> max tien nhan duoc truoc i
+    dp.push(nums[0]);
+
+    for (let i = 1; i < nums.length; i++) {
+        const max = Math.max(dp[dp.length - 1], dp[dp.length - 2] + nums[i]);
+        dp.push(max);
     }
-    console.log(dp)
-    return dp[dp.length-1];
+    // console.log(dp);
+    return dp[dp.length - 1];
+
 };
