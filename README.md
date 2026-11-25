@@ -111,6 +111,7 @@ leetcode-solutions/
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ leetcode-solutions/
 | [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [2540-minimum-common-value](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ leetcode-solutions/
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2540-minimum-common-value](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +301,7 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,4 +329,12 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
