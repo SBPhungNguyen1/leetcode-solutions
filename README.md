@@ -118,6 +118,7 @@ leetcode-solutions/
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3360-stone-removal-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@ leetcode-solutions/
 | [2073-time-needed-to-buy-tickets](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3360-stone-removal-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
