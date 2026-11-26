@@ -119,6 +119,7 @@ leetcode-solutions/
 | [0009-palindrome-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [1175-prime-arrangements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3360-stone-removal-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
@@ -346,4 +347,16 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 <!---LeetCode Topics End-->
