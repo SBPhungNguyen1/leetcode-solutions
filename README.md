@@ -103,6 +103,7 @@ leetcode-solutions/
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0896-monotonic-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -237,12 +238,14 @@ leetcode-solutions/
 | [0200-number-of-islands](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
