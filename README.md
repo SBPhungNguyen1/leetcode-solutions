@@ -116,6 +116,7 @@ leetcode-solutions/
 | [3331-find-subtree-sizes-after-changes](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +206,7 @@ leetcode-solutions/
 | [0977-squares-of-a-sorted-array](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +298,7 @@ leetcode-solutions/
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,4 +371,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1175-prime-arrangements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 <!---LeetCode Topics End-->
