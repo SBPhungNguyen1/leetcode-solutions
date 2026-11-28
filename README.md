@@ -109,6 +109,7 @@ leetcode-solutions/
 | [1200-minimum-absolute-difference](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -129,6 +130,7 @@ leetcode-solutions/
 | [1175-prime-arrangements](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [1185-day-of-the-week](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1185-day-of-the-week/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3360-stone-removal-game](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
@@ -389,4 +391,8 @@ leetcode-solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/SBPhungNguyen1/leetcode-solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 <!---LeetCode Topics End-->
