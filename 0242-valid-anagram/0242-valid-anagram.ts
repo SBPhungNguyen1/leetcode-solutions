@@ -1,21 +1,13 @@
 function isAnagram(s: string, t: string): boolean {
-    if (s.length !== t.length) return false;
-
-    const stringMap = new Map<string, number>()
-
-    for (var i = 0; i < s.length ; i++) {
-        stringMap.set(s[i], (stringMap.get(s[i]) ?? 0) + 1);
+    if (s.length !== t.length)
+        return false;
+    let map = new Map<string, number>();
+    for (let i = 0; i < s.length; i++)
+        map.set(s[i], (map.get(s[i]) || 0) + 1);
+    for (let i = 0; i < t.length; i++) {
+        if (!map.has(t[i]) || map.get(t[i]) === 0)
+            return false;
+        map.set(t[i], (map.get(t[i]) || 0) - 1);
     }
-
-    for (var j = 0; j < t.length ; j++) {
-        stringMap.set(t[j], (stringMap.get(t[j]) ?? 0) - 1);
-    }
-
-    for (const [key, value] of stringMap) {
-        if (value !== 0) return false;
-    }
-
-    console.log(stringMap)
-
     return true;
 };
