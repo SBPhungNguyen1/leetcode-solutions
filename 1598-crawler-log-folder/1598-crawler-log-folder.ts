@@ -1,12 +1,14 @@
 function minOperations(logs: string[]): number {
-    let count = 0;
+    const stack = [];
     for (const log of logs) {
-        if (log === "../")
-            count = Math.max(count - 1, 0);
-        else if (log === "./") 
+        if (log === '../')
+            stack.pop();
+        else if (log === './')
             continue;
-        else
-            count++;
+        else {
+            const folder = log.split('/')[0];
+            stack.push(folder);
+        }
     }
-    return Math.max(count, 0);
+    return stack.length;
 };
